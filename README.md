@@ -1,4 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+
 https://img.shields.io/badge/:badgeContent
 
 
