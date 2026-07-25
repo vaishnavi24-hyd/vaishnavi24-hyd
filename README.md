@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![GitHub stars](https://img.shields.io/github/stars/vaishnavi24-hyd/vaishnavi24-hyd)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Heyyyy ! I'm Vaishnavi Guttapally, a BTech 2nd year student pursuing CSE in MGIT!!
 <!--
