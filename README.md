@@ -5,6 +5,7 @@ Heyyyy ! I'm Vaishnavi Guttapally, a BTech 2nd year student pursuing CSE in MGIT
 **vaishnavi24-hyd/vaishnavi24-hyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
