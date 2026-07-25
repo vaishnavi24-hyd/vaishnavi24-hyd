@@ -1,8 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-
-https://img.shields.io/badge/:badgeContent
-
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)
 
 Heyyyy ! I'm Vaishnavi Guttapally, a BTech 2nd year student pursuing CSE in MGIT!!
 <!--
