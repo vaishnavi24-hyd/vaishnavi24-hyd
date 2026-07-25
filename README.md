@@ -1,4 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+https://img.shields.io/badge/:badgeContent
+
 
 Heyyyy ! I'm Vaishnavi Guttapally, a BTech 2nd year student pursuing CSE in MGIT!!
 <!--
