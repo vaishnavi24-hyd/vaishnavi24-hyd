@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Venkatesh Guttapally**
+# 👋 Hi there, I'm **Vaishnavi Guttapally**
 
 💻 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development & Generative AI**  
 🌱 Currently learning: **DSA, Advanced Python, FastAPI, LangChain, RAG & System Design**  
