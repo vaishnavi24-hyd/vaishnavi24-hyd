@@ -64,11 +64,10 @@
 
 ## 🤝 Connect with Me
 
-📧 **Email:** your-email@example.com
+📧 **Email:** vaishnavi.guttapally24@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-profile
+💼 **LinkedIn:** https://www.linkedin.com/in/vaishnavi-guttapally-a70044343/
 
-🌐 **Portfolio:** https://yourportfolio.com
 
 💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
 
