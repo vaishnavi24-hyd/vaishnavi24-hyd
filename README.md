@@ -118,3 +118,11 @@ Oracle EBS R12.2
 Oracle Cloud Infrastructure
 Git & GitHub
 Jenkins CI/CD
+
+## 📊 GitHub Stats
+
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavi24-hyd&show_icons=true&theme=default)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi24-hyd&layout=compact&theme=default)
