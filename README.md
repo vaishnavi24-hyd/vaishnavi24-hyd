@@ -1,4 +1,5 @@
 # Hi, I'm Vaishnavi Guttapally 👋
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ### DevOps | Cloud | Oracle Database | Software Development
 
